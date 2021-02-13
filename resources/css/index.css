@@ -1,0 +1,66 @@
+.banner{
+    background-color:#FFF5EE;
+    font-weight:bold;
+    color:#D2691E;
+    margin-top:75px auto;
+    text-align: center;
+    padding:50px 0;}
+h1{
+    font-family: 'Potta One', cursive,serif;
+    margin: 0 auto;
+}
+.pacifico{
+    font-family: 'Pacifico', cursive,serif;
+    margin:0 auto;
+}
+.grace{
+    font-family: 'Covered By Your Grace', cursive,serif;
+    font-size: larger;
+    margin:0 auto;
+}
+
+#huge_valen{
+    height: 450px;
+    width:  300px;
+    margin:0 auto;
+}
+#cookies{
+    height:80px;
+    width: 250px;
+    margin:0 auto;
+}
+#heart{
+    height:40px;
+    width:40px;
+    padding: 0 20px;
+    margin:0 auto;
+}
+
+#baby {
+    color:#D2691E;
+    font-size:20px;
+    text-align:center;
+    margin:0 auto;
+}
+
+ul {
+    list-style: none;
+    line-height: 1.6;
+    letter-spacing: 0.2em;
+    text-align: center;
+    background-color:#FFB6C1 ;
+    color:#D2691E;
+    padding:50px 0;
+    margin:0 auto;
+}
+
+ul li:before {
+    content: "\2665";
+    color: #e63f0d;
+}
+#cute1{
+  height:150px;
+  padding:0 0;
+  margin:0 auto;
+}
+  

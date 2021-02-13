@@ -1,0 +1,27 @@
+*
+{
+    background-color:rgba(40, 42, 54, 0.993);
+}
+
+
+
+.Wishing{
+    padding-top: 5 rem;
+    margin:0 auto;
+    align-items: center;
+    color:rgb(58, 158, 189);
+    text-align: center;
+    font-size:large;
+    font-family:'Yusei Magic', sans-serif;
+}
+#galaxy{
+    z-index: -1;
+    height: 20rem;
+    width: 50rem;
+}
+#yoda{
+    height:15rem;
+    align-items: flex-end;
+    float:right;
+    padding:auto;
+}

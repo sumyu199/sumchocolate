@@ -1,0 +1,51 @@
+body{
+    background-color:rgb(241,220,194);
+    padding:0;
+    margin:0;
+    margin:0 auto;
+}
+.container{
+    height:40vh;
+    width:50vw;
+    background-color:rgb(241,220,194);
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    margin:0 auto;
+}
+.heart{
+    background-color:white;
+    height: 100px;
+    width:100px;
+    transform:rotate(45deg);
+    margin:0 auto;
+}
+p{
+    text-align: center;
+    color:#581825;
+    font-family: 'Yusei Magic', sans-serif; 
+    font-size:medium;
+    margin:0 auto;
+}
+.heart:before{
+    position:absolute;
+    content:'';
+    background-color:white;
+    height:60%;
+    width:100%;
+    top:-59%;
+    border-radius: 75px 75px 0 0;
+    margin:0 auto;
+}
+.heart:after{
+    position:absolute;
+    content:'';
+    background-color:white;
+    height:60%;
+    width:100%;
+    transform:rotate(-90deg);
+    top:20%;
+    right:79%;
+    border-radius:75px 75px 0 0;
+    margin:0 auto;
+}
